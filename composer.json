@@ -1,0 +1,9 @@
+{
+    "require": {
+        "simplepie/simplepie": "^1.5",
+        "mf2/mf2": "^0.4.6",
+        "masterminds/html5": "^2.7",
+        "monolog/monolog": "^2.2",
+        "needim/noty": "^3.1"
+    }
+}
